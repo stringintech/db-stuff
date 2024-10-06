@@ -1,0 +1,31 @@
+2024/10/06 16:27:31 Starting benchmark in partition mode
+2024/10/06 16:27:31 Running iteration 1
+2024/10/06 16:27:31 Initializing benchmark
+2024/10/06 16:27:31 Populating table
+2024/10/06 16:28:14 Deleting first week data
+2024/10/06 16:28:14 Cleaning up
+2024/10/06 16:28:14 Running iteration 2
+2024/10/06 16:28:14 Initializing benchmark
+2024/10/06 16:28:14 Populating table
+2024/10/06 16:28:57 Deleting first week data
+2024/10/06 16:28:57 Cleaning up
+2024/10/06 16:28:57 Running iteration 3
+2024/10/06 16:28:57 Initializing benchmark
+2024/10/06 16:28:57 Populating table
+2024/10/06 16:29:40 Deleting first week data
+2024/10/06 16:29:40 Cleaning up
+2024/10/06 16:29:40 Running iteration 4
+2024/10/06 16:29:40 Initializing benchmark
+2024/10/06 16:29:40 Populating table
+2024/10/06 16:30:23 Deleting first week data
+2024/10/06 16:30:23 Cleaning up
+2024/10/06 16:30:23 Running iteration 5
+2024/10/06 16:30:23 Initializing benchmark
+2024/10/06 16:30:23 Populating table
+2024/10/06 16:31:06 Deleting first week data
+2024/10/06 16:31:06 Cleaning up
+2024/10/06 16:31:06 Average Initialization Duration: 121.752641ms
+2024/10/06 16:31:06 Average Population Duration: 42.858937324s
+2024/10/06 16:31:06 Average Deletion Duration: 6.430733ms
+2024/10/06 16:31:06 Average Clean-Up Duration: 13.46045ms
+2024/10/06 16:31:06 Average Total Size in Bytes: 908304384

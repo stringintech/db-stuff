@@ -1,0 +1,31 @@
+2024/10/06 16:31:55 Starting benchmark in simple mode
+2024/10/06 16:31:55 Running iteration 1
+2024/10/06 16:31:55 Initializing benchmark
+2024/10/06 16:31:55 Populating table
+2024/10/06 16:32:37 Deleting first week data
+2024/10/06 16:32:38 Cleaning up
+2024/10/06 16:32:38 Running iteration 2
+2024/10/06 16:32:38 Initializing benchmark
+2024/10/06 16:32:38 Populating table
+2024/10/06 16:33:20 Deleting first week data
+2024/10/06 16:33:21 Cleaning up
+2024/10/06 16:33:21 Running iteration 3
+2024/10/06 16:33:21 Initializing benchmark
+2024/10/06 16:33:21 Populating table
+2024/10/06 16:34:03 Deleting first week data
+2024/10/06 16:34:04 Cleaning up
+2024/10/06 16:34:04 Running iteration 4
+2024/10/06 16:34:04 Initializing benchmark
+2024/10/06 16:34:05 Populating table
+2024/10/06 16:34:46 Deleting first week data
+2024/10/06 16:34:47 Cleaning up
+2024/10/06 16:34:47 Running iteration 5
+2024/10/06 16:34:47 Initializing benchmark
+2024/10/06 16:34:47 Populating table
+2024/10/06 16:35:29 Deleting first week data
+2024/10/06 16:35:30 Cleaning up
+2024/10/06 16:35:30 Average Initialization Duration: 77.002891ms
+2024/10/06 16:35:30 Average Population Duration: 41.70188885s
+2024/10/06 16:35:30 Average Deletion Duration: 1.264041991s
+2024/10/06 16:35:30 Average Clean-Up Duration: 21.89955ms
+2024/10/06 16:35:30 Average Total Size in Bytes: 728178688
